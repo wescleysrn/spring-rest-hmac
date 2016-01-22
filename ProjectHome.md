@@ -1,0 +1,1 @@
+Spring Security Restful Authentication with HMAC
